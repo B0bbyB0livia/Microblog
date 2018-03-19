@@ -1,0 +1,37 @@
+/* style.css */
+table.table
+{
+width: 580px;
+background-color: #fafafa;
+border: 1px #000000 solid;
+border-collapse: collapse;
+border-spacing: 0px;
+}
+
+
+td.frow
+{
+background-color: #D5FFC3;
+border: 1px #000000 solid;
+font-family: Arial Black;
+font-weight: bold;
+font-size: 12px;
+color: #585857;
+
+}
+
+
+td.tdata
+{
+border-bottom: 1px black dotted;
+text-align: left;
+font-family: Verdana, sans-serif, Arial;
+font-weight: normal;
+font-size: 12px;
+color: #404040;
+background-color: #fdf7ef;
+padding-top: 4px;
+padding-bottom: 4px;
+padding-left: 8px;
+padding-right: 0px;
+}
